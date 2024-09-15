@@ -1,0 +1,12 @@
+TM1637.c:214:6:delay	0	static
+TM1637.c:169:6:start	16	static
+TM1637.c:197:6:WriteByte	24	static
+TM1637.c:188:6:waitACK	16	static
+TM1637.c:177:6:stop	16	static
+TM1637.c:37:10:power	0	static
+TM1637.c:50:6:TM1637SetBrightness	8	static
+TM1637.c:45:6:TM1637Init	8	static
+TM1637.c:64:6:TM1637ShowNumberLeft	48	static
+TM1637.c:103:6:TM1637ShowNumberRight	48	static
+TM1637.c:155:6:TM1637SetRawData	16	static
+TM1637.c:151:6:TM1637SetChar	8	static

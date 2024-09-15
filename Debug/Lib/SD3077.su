@@ -1,0 +1,7 @@
+SD3077.c:6:13:UnlockWriteProtect	48	static
+SD3077.c:20:6:TimeNow	40	static
+SD3077.c:41:6:SetTime	56	static
+SD3077.c:64:6:EnableSencodInterruptOuput	48	static
+SD3077.c:89:6:SetInterruptOuput	48	static
+SD3077.c:114:6:WriteBackData	32	static
+SD3077.c:124:6:ReadBackData	24	static

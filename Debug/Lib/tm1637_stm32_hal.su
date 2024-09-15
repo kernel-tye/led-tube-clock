@@ -1,0 +1,13 @@
+tm1637_stm32_hal.c:246:6:delayUsec	0	static
+tm1637_stm32_hal.c:189:6:start	16	static
+tm1637_stm32_hal.c:218:6:WriteByte	24	static
+tm1637_stm32_hal.c:208:6:readACK	16	static
+tm1637_stm32_hal.c:197:6:stop	16	static
+tm1637_stm32_hal.c:35:9:translateFromChar	0	static
+tm1637_stm32_hal.c:70:10:power	0	static
+tm1637_stm32_hal.c:84:6:TM1637SetBrightness	8	static
+tm1637_stm32_hal.c:78:6:TM1637Init	8	static
+tm1637_stm32_hal.c:98:6:TM1637ShowNumberLeft	48	static
+tm1637_stm32_hal.c:143:6:TM1637SetRawData	16	static
+tm1637_stm32_hal.c:139:6:TM1637SetChar	16	static
+tm1637_stm32_hal.c:157:6:TM1637SetNumber	40	static
